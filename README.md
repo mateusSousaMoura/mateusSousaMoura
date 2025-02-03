@@ -6,8 +6,7 @@
 ---
 
 ## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/seu-perfil)
-- [Gmail](mailto:seuemail@gmail.com)
+- [Gmail](mailto:mateussmoura30@gmail.com)
 
 ---
 
