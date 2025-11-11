@@ -11,6 +11,6 @@
 ---
 
 ## 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=rails,ruby,git,html,next,spring,tailwind,postgresql,py,css,docker,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rails,ruby,git,html,next,spring,fastapi,tailwind,postgresql,py,css,docker,ts)](https://skillicons.dev)
 
 ---
