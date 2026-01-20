@@ -7,6 +7,7 @@
 
 ## 🌐 Socials:
 - [Gmail](mailto:mateussmoura30@gmail.com)
+- [Linkedin](https://www.linkedin.com/in/mateus-sousa-moura-223738307/)
 
 ---
 
