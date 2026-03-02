@@ -1,6 +1,7 @@
 # 👋 About Me:
 
 - 🎓 Computer Science Student at the Federal University of Piauí
+- Mid-level FullStack Developer at HeyDev</>
 
 
 ---
